@@ -4,3 +4,4 @@ function multiply (a,b) {return (a*b)}
 function divide (a,b) {return (a/b)}
 function increment (n) {return (n += 1)}
 function decrement (n) {return (n -= 1)}
+function make Int(n) {return (parseInt ("n" , 10))} 
